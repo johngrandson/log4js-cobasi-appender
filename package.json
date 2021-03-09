@@ -1,0 +1,30 @@
+{
+  "name": "log4js-cobasi-appender",
+  "description": "log4js-cobasi-appender",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngrandson/log4js-cobasi-appender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngrandson/log4js-cobasi-appender/issues"
+  },
+  "homepage": "https://github.com/johngrandson/log4js-cobasi-appender#readme",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "lx-helpers": "^0.5.1",
+    "mongodb": "^3.6.4"
+  },
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
